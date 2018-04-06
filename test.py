@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-print("Hello World! How are you?")
+print("Hello World! This is a test script.")
 
