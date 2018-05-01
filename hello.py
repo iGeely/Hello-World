@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-print("Hello World! How are you?")
+print("Hello World!")
 print("Good Morning!")
 
